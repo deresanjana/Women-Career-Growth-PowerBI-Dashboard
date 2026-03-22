@@ -1,4 +1,4 @@
-👩‍💼 Women's Career Growth & Progression Dashboard
+***👩‍💼 Women's Career Growth & Progression Dashboard***
 
 **Project Overview**
 This Power BI project provides a comprehensive analysis of the global workforce, focusing specifically on **Women's Career Trends**. The goal is to understand the factors influencing salary, promotion, and work-life balance for women across different industries and countries.
@@ -6,6 +6,7 @@ This Power BI project provides a comprehensive analysis of the global workforce,
 The dataset includes information from **40,000+ employees**, analyzing demographics, education levels, and job satisfaction metrics.
 
 **📊 Key Insights from the Dashboard**
+
 Page 1: Global Workforce Insights
 * **Industry Distribution:** Healthcare and IT sectors show the highest density of female employees in this dataset.
 * **Salary vs. Country:** Identified specific regions where the average monthly salary for women is peak (e.g., Australia and Canada).
@@ -27,8 +28,4 @@ Page 2: Career Growth & Progression
 **📂 How to View This Project**
 1. Download the `.pbix` file from this repository.
 2. Open it using **Power BI Desktop**.
-3. (Optional) View the high-resolution screenshots provided in the `Screenshots/` folder to see the dashboard layout.
-
-
-
-**अभिनंदन! तुझा डॅशबोर्ड आता जगाला पाहण्यासाठी तयार आहे. अजून काही मदत हवी असल्यास नक्की सांग!** काय म्हणतेस, अपलोड झालं का?
+3. (Optional) View the high-resolution screenshots provided to see the dashboard layout.
